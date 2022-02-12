@@ -1,7 +1,7 @@
 # 6502-CPU
 6502 CPU Without Interrupt Handling
 
-A while ago i made a video on Youtube of this topic:<br>
+A while ago i made a video on Youtube on this topic:<br>
 https://www.youtube.com/watch?v=mHsSNoQVRWU
 
 These are some of the website with which i was able to do this
