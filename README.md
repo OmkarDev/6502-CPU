@@ -4,8 +4,11 @@
 A while ago i made a video on Youtube on this topic:<br>
 https://www.youtube.com/watch?v=mHsSNoQVRWU
 
-These are some of the website with which i was able to do this
 
+![version 2 screenshot](https://github.com/OmkarDev/6502-CPU/blob/main/Screenshot/Screenshot.jpg?raw=true)
+
+
+These are some of the website with which i was able to do this
 
 References:<br>
 https://en.wikibooks.org/wiki/6502_Assembly <br>
